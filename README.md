@@ -20,4 +20,4 @@
 <br />
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com/?user=fairymavisv)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fairymavisv&show_icons=true&theme=tokyonight)
