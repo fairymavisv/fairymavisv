@@ -20,4 +20,4 @@
 <br />
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fairymavisv&hide=stars,prs,issues,contribs&theme=tokyonight)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fairymavisv&theme=dark&hide_border=true" />
