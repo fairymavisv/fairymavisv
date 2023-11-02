@@ -21,4 +21,4 @@
 
 ---
 ### 📈 Bingyu's Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=fairymavisv&theme=tokyonight-duo&hide_border=true&border_radius=5&exclude_days=Sun%2CSat&card_width=800&background=0C0404)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=fairymavisv&theme=tokyonight-duo&hide_border=true&border_radius=5&exclude_days=Sun%2CSat&card_width=1000&background=0C0404)](https://git.io/streak-stats)
