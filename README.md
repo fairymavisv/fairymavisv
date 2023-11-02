@@ -20,4 +20,4 @@
 <br />
 
 ---
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fairymavisv&theme=dark&hide_border=true" />
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=fairymavisv&theme=tokyonight-duo&hide_border=true&border_radius=5&exclude_days=Sun%2CSat&background=0C0404)](https://git.io/streak-stats)
