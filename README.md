@@ -1,8 +1,7 @@
 ### Hi there 👋
-- 🌱 I’m currently learning IT in UNSW.
-- 👯 I’m looking to collaborate on Machine Learning.
+- 🌱 I’m currently learning IT and Commerce in UNSW.
+- 👯 I’m looking to collaborate on Kaggle Competition.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I never eat breakfast.
 ---
 ### 📖 Programming Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
